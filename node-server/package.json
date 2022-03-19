@@ -1,0 +1,9 @@
+{
+  "name": "node-ecommecre",
+  "version": "0.1.0",
+  "description": "Test ecommerce project",
+  "main": "index.js",
+  "repository": "https://github.com/Yakubov01/node-ecommerce",
+  "author": "Kuranboy Yakubov",
+  "license": "MIT"
+}
